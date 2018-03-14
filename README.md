@@ -1,2 +1,2 @@
 # ajax
-Tienes que hacer la base de datos
+Tienes que cagar la base de datos
